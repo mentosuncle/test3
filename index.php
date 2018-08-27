@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.everydayhealth.com/healthy-home/safe-home-painting-a-primer.aspx");
+header("Location: http://www.buildinganddrawing.co.uk/");
 die();
 ?>
